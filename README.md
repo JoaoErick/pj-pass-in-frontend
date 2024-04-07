@@ -58,10 +58,10 @@ O aplicativo possui quatro telas:
 - Acesso à credencial.
 
 <p align="center">
-  <img src="https://i.imgur.com/BlcWk6j.png" alt="Lexical Analyzer Icon" width="220px">
-  <img src="https://i.imgur.com/8pPr6Kx.png" alt="Lexical Analyzer Icon" width="220px">
-  <img src="https://i.imgur.com/eCaJnko.png" alt="Lexical Analyzer Icon" width="220px">
-  <img src="https://i.imgur.com/GCFK1Kn.png" alt="Lexical Analyzer Icon" width="220px">
+  <img src="https://i.imgur.com/BlcWk6j.png" alt="Lexical Analyzer Icon" width="200px">
+  <img src="https://i.imgur.com/8pPr6Kx.png" alt="Lexical Analyzer Icon" width="200px">
+  <img src="https://i.imgur.com/eCaJnko.png" alt="Lexical Analyzer Icon" width="200px">
+  <img src="https://i.imgur.com/GCFK1Kn.png" alt="Lexical Analyzer Icon" width="200px">
 </p>
 
 ## Getting Started
