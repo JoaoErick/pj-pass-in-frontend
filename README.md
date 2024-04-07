@@ -73,7 +73,7 @@ O aplicativo possui quatro telas:
    npm install
    ```
 4. Execute o projeto:
-   `cmd
+   ```cmd
     npx expo start
-    `
+   ```
    > Por padrão, a aplicação será executada no endereço http://localhost:8081
